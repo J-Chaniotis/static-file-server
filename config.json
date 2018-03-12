@@ -1,0 +1,7 @@
+{
+    "httpPort": 8080,
+    "httpsPort": 4343,
+    "webRoot": "./static",
+    "key": "./cert/notSecureKey.pem",
+    "cert": "./cert/notSecureCert.pem"    
+}
